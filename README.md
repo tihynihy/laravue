@@ -1,5 +1,5 @@
-** Laravel + Vue.js 3 + Vite Starter Kit
-**
+# Laravel + Vue.js 3 + Vite Starter Kit
+
 This is a starter kit that combines Laravel, Vue.js 3, and Vite for a modern web development stack.
 
 ## Features
@@ -25,49 +25,47 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
   
-   git clone https://github.com/your-username/laravel-vue-vite-starter.git
+   ## git clone https://github.com/your-username/laravel-vue-vite-starter.git
   
 
 2. Change into the project directory:
 
   
-   cd laravel-vue-vite-starter
+   ## cd laravel-vue-vite-starter
   
 
 3. Install PHP dependencies:
+   
+   ## composer install
 
-   \`\`\`bash
-   composer install
-   \`\`\`
-
-4. Install Node.js dependencies:
+5. Install Node.js dependencies:
 
   
-   npm install
+   ## npm install
  
 
-5. Copy the \`.env.example\` file to \`.env\` and configure your database settings.
+6. Copy the \`.env.example\` file to \`.env\` and configure your database settings.
 
-6. Generate the Laravel application key:
+7. Generate the Laravel application key:
 
-   php artisan key:generate
+   ## php artisan key:generate
  
 
-7. Run migrations to create the database tables:
+8. Run migrations to create the database tables:
 
-   php artisan migrate
+   ## php artisan migrate
 
 
-8. Start the Laravel development server:
+9. Start the Laravel development server:
  
-   php artisan serve
+   ## php artisan serve
 
-9. In a separate terminal, start the Vite development server:
+10. In a separate terminal, start the Vite development server:
 
-   npm run dev
+   ## npm run dev
 
 
-10. Visit \`http://localhost:8000\` in your browser to see the application.
+11. Visit \`http://localhost:8000\` in your browser to see the application.
 
 ## Usage
 
