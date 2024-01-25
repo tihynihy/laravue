@@ -1,5 +1,5 @@
-"# Laravel + Vue.js 3 + Vite Starter Kit
-
+** Laravel + Vue.js 3 + Vite Starter Kit
+**
 This is a starter kit that combines Laravel, Vue.js 3, and Vite for a modern web development stack.
 
 ## Features
