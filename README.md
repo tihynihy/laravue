@@ -9,8 +9,6 @@ This is a starter kit that combines Laravel, Vue.js 3, and Vite for a modern web
 - Vite for fast and efficient frontend development.
 - Easily customizable and extendable structure.
 
-## Getting Started
-
 ### Prerequisites
 
 Make sure you have the following installed on your machine:
